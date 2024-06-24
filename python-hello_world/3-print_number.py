@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-format("98" , "Battery Street")
-
+number = "98"
+sentence ="{} Battery street".format
