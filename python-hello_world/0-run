@@ -1,3 +1,2 @@
-#!/usr/bin/
-pwd
-
+#!/bin/bash
+print("Hello World")
