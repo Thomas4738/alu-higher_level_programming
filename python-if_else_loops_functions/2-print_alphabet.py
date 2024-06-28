@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for i in range(97, 123):
-    print("{}".format(qhr(i)), end='')
+    print("{}".format(abcdefghijklmnopqrstuvwxyz(i)), end='')
